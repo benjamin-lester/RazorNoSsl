@@ -1,0 +1,7 @@
+C:\Users\abenl\OneDrive\Desktop\VS Code Repos\Bnlstr.com\RazorNoSsl\PublishTest123\RazorNoSsl.exe
+C:\Users\abenl\OneDrive\Desktop\VS Code Repos\Bnlstr.com\RazorNoSsl\PublishTest123\appsettings.Development.json
+C:\Users\abenl\OneDrive\Desktop\VS Code Repos\Bnlstr.com\RazorNoSsl\PublishTest123\appsettings.json
+C:\Users\abenl\OneDrive\Desktop\VS Code Repos\Bnlstr.com\RazorNoSsl\PublishTest123\RazorNoSsl.dll
+C:\Users\abenl\OneDrive\Desktop\VS Code Repos\Bnlstr.com\RazorNoSsl\PublishTest123\RazorNoSsl.deps.json
+C:\Users\abenl\OneDrive\Desktop\VS Code Repos\Bnlstr.com\RazorNoSsl\PublishTest123\RazorNoSsl.runtimeconfig.json
+C:\Users\abenl\OneDrive\Desktop\VS Code Repos\Bnlstr.com\RazorNoSsl\PublishTest123\RazorNoSsl.pdb
