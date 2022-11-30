@@ -60,4 +60,4 @@ jobs:
         key: ${{ secrets.SSH_KEY }}
         script: |
           ls -al /var/www/$WEBSITE 2>/dev/null # to see if the files were copied
-          sudo systemctl restart dotnet-bnlstr.com.service # Just need to figure out how to authenticate here - use visudo!
+          sudo /bin/systemctl restart dotnet-bnlstr.com.service
